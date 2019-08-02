@@ -31,7 +31,8 @@ print(p2 == p3)
 #print(p2 == (3, 4))
 
 # MobilePhone
-# __init__ (self, brand, model)
-#   data - brand, model
+# __init__ (self, brand,
+#             model, price)
+#   data - brand, model, price
 # __rerp__, __str__, __eq__
 
