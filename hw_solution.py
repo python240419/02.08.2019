@@ -1,4 +1,3 @@
-'''
 # fucntion
 def myPrint():
     pass
@@ -15,8 +14,6 @@ class Computer():
 print('hello')   # function
 lenovo = Computer()
 lenovo.turnOn() # method
-
-'''
 
 def sortToTuple(*args):
     return tuple(sorted(args))
