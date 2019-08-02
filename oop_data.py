@@ -17,3 +17,5 @@ print(mac.color)
 # data: name , __init__  parameter
 # *etgar: sayMyName() - print
 #       current person name
+# create 2 persons
+# set name default value 'Incognito'
